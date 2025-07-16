@@ -1,4 +1,4 @@
-## 📊 Credit Scoring Business Understanding
+## Credit Scoring Business Understanding
 
 This section provides a concise overview of key concepts in credit risk, informed by regulatory frameworks and practical modeling considerations.
 
